@@ -10,7 +10,7 @@ out
 *.sublime-project
 *.sublime-workspace
 *.log
-build
+# build
 dist
 yarn.lock
 shrinkwrap.yaml
